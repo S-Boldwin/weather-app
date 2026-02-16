@@ -1,0 +1,17 @@
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# API keys (if you make a separate config file)
+config.js
